@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+div{
+  display:block;
+  text-align: center;
+ }
+ h2{
+  display:block;
+  text-align: center;
+ }
+p{
+  display:block;
+  text-align: center;
+}
+body{
+  background-image: url('https://img.freepik.com/free-photo/cyber-monday-retail-sales_23-2148688493.jpg?w=900&t=st=1686129603~exp=1686130203~hmac=cb4689a4a9dc53f02fabebaeb064bd7a62723131c0e73564378098568dbd0378');
+  background-repeat: no-repeat;
+  background-size: 1400px 700px;
+
+}
+.login{
+  border: 2px solid rgb(175, 109, 9);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 15px;
+  margin-left: 200px;
+  margin-right: 500px;
+  background-color: rgba(255, 237, 216, 0.514);
+}
