@@ -27,6 +27,7 @@ div{
 p{
   display:block;
   text-align: center;
+  margin: 2px;
 }
 body{
   background-image: url('https://img.freepik.com/free-photo/cyber-monday-retail-sales_23-2148688493.jpg?w=900&t=st=1686129603~exp=1686130203~hmac=cb4689a4a9dc53f02fabebaeb064bd7a62723131c0e73564378098568dbd0378');

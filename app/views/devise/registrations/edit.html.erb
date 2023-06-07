@@ -9,6 +9,11 @@
   </div>
 
   <div class="field">
+    <%= f.label :role %><p>(artisian/customer)</p><br />
+    <%= f.text_field :role, autofocus: true, autocomplete: "role" %>
+  </div>
+
+  <div class="field">
     <%= f.label :email %><br />
     <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
   </div>

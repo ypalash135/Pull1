@@ -1,6 +1,6 @@
 This is index file of store controller
 <% if User.occupation='artist'%>
-  <% render1%>
+  <% render 'page', user: @user%>
 <% else %>
-  <% render2%>
+  <% render 'page2', user: @user%>
 <%end%>
